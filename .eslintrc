@@ -8,7 +8,9 @@
   "rules": {
     "semi": "off",
     "require-jsdoc": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "eol-last": "off",
+    "operator-linebreak": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
