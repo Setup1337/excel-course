@@ -42,7 +42,7 @@ module.exports = {
     },
   },
   devServer: {
-    port: 1488,
+    port: 1337,
     hot: isDev,
   },
   plugins: [
